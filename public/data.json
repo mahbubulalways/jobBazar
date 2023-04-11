@@ -1,0 +1,32 @@
+[
+ 
+    {
+        "id": 1,
+        "name":"Account & Finance",
+      "image": "https://img.freepik.com/free-vector/calculator-icon-illustration_53876-6437.jpg?w=740&t=st=1681057479~exp=1681058079~hmac=0989e7c743bc872c140b55599be6175e69a91e57609b7971bc5f0a933c5ca47b",
+      "job": "300 Jobs Available"
+    
+    },
+    {
+        "id": 2,
+        "name":"Creative Design",
+      "image": "https://img.freepik.com/free-vector/realistic-light-bulb-with-electricity_23-2149129410.jpg?w=740&t=st=1681057918~exp=1681058518~hmac=6d15c86bfebf44ff6ca63ad5ed74c7df0874a483722bffbc578dd1c760823257",
+      "job": "100+ Jobs Available"
+    
+    },
+    {
+        "id": 3,
+        "name":"Marketing & Sales",
+      "image": "https://img.freepik.com/free-vector/mobile-marketing-isometric-style_23-2148896785.jpg?w=740&t=st=1681057982~exp=1681058582~hmac=faee458ce14f417e83570a3fd95896afb1b7c6ac61e4d8ce25cfdb140745df8e",
+      "job": "150 Jobs Available"
+    
+    },
+    {
+        "id": 4,
+        "name":"Engineering Job",
+      "image": "https://img.freepik.com/free-vector/cogwheel-teamwork-connection_98292-4374.jpg?w=740&t=st=1681058118~exp=1681058718~hmac=d5ed6c27c7287c0731f771a9d626e11e81f7a9c12254b8bd4007c8d320e75bf8",
+      "job": "224 Jobs Available"
+    
+    }
+  ]
+  
